@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2857B73E-F847-4B02-9238-064979017E93}") = "holamundo", "holamundo\holamundo.cproj", "{56808437-D923-46F4-AB96-D6A52C54C6B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56808437-D923-46F4-AB96-D6A52C54C6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56808437-D923-46F4-AB96-D6A52C54C6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56808437-D923-46F4-AB96-D6A52C54C6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56808437-D923-46F4-AB96-D6A52C54C6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = holamundo\holamundo.cproj
+	EndGlobalSection
+EndGlobal
